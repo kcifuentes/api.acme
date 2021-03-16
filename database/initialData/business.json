@@ -1,0 +1,335 @@
+{
+    "sectors": [
+        {
+            "es-co": "Agricultura",
+            "en-us": "Farming"
+        },
+        {
+            "es-co": "Ganadería"
+        },
+        {
+            "es-co": "Pesca y acuicultura"
+        },
+        {
+            "es-co": "Silvicultura"
+        },
+        {
+            "es-co": "Alimentación y nutrición"
+        },
+        {
+            "es-co": "Bebidas alcohólicas"
+        },
+        {
+            "es-co": "Bebidas sin alcohol"
+        },
+        {
+            "es-co": "Cosmética y cuidado personal"
+        },
+        {
+            "es-co": "Equipamiento del hogar"
+        },
+        {
+            "es-co": "Juguetes"
+        },
+        {
+            "es-co": "Mascotas"
+        },
+        {
+            "es-co": "Productos de limpieza"
+        },
+        {
+            "es-co": "Reformas en el hogar y jardinería"
+        },
+        {
+            "es-co": "Ropa y complementos"
+        },
+        {
+            "es-co": "Tabaco"
+        },
+        {
+            "es-co": "Cifras clave del comercio electrónico"
+        },
+        {
+            "es-co": "Comercio electrónico B2B"
+        },
+        {
+            "es-co": "Comercio electrónico B2C"
+        },
+        {
+            "es-co": "Comercio electrónico C2C"
+        },
+        {
+            "es-co": "Pagos digitales"
+        },
+        {
+            "es-co": "Alimentación"
+        },
+        {
+            "es-co": "Centros comerciales y outlets"
+        },
+        {
+            "es-co": "Cifras clave del comercio minorista"
+        },
+        {
+            "es-co": "Comercio al por mayor"
+        },
+        {
+            "es-co": "Comercio internacional"
+        },
+        {
+            "es-co": "Comportamiento de compra"
+        },
+        {
+            "es-co": "Deporte y ocio"
+        },
+        {
+            "es-co": "DIY/Bricolaje"
+        },
+        {
+            "es-co": "Electrónica"
+        },
+        {
+            "es-co": "Material de oficina"
+        },
+        {
+            "es-co": "Mobiliario"
+        },
+        {
+            "es-co": "Moda y complementos"
+        },
+        {
+            "es-co": "Salud e higiene"
+        },
+        {
+            "es-co": "Arquitectura"
+        },
+        {
+            "es-co": "Ingeniería civil"
+        },
+        {
+            "es-co": "Aficiones"
+        },
+        {
+            "es-co": "Arte y cultura"
+        },
+        {
+            "es-co": "Deporte y fitness"
+        },
+        {
+            "es-co": "Juegos de azar"
+        },
+        {
+            "es-co": "Parques y actividades al aire libre"
+        },
+        {
+            "es-co": "Agua y aguas residuales"
+        },
+        {
+            "es-co": "Emisiones"
+        },
+        {
+            "es-co": "Energía"
+        },
+        {
+            "es-co": "Energía y tecnología medioambiental"
+        },
+        {
+            "es-co": "Gestión de residuos"
+        },
+        {
+            "es-co": "Entidades financieras"
+        },
+        {
+            "es-co": "Mercados financieros"
+        },
+        {
+            "es-co": "Sector inmobiliario"
+        },
+        {
+            "es-co": "Seguros"
+        },
+        {
+            "es-co": "Servicios financieros"
+        },
+        {
+            "es-co": "Alcance y tráfico"
+        },
+        {
+            "es-co": "Ciberdelincuencia"
+        },
+        {
+            "es-co": "Demografía y uso"
+        },
+        {
+            "es-co": "Internet móvil y aplicaciones"
+        },
+        {
+            "es-co": "Motores de búsqueda y SEO"
+        },
+        {
+            "es-co": "Publicidad y marketing"
+        },
+        {
+            "es-co": "Social media y contenido creado por el usuario"
+        },
+        {
+            "es-co": "Vídeos online y entretenimiento"
+        },
+        {
+            "es-co": "Aviación"
+        },
+        {
+            "es-co": "Logística"
+        },
+        {
+            "es-co": "Tráfico rodado"
+        },
+        {
+            "es-co": "Tráfico rodado"
+        },
+        {
+            "es-co": "Transporte ferroviario"
+        },
+        {
+            "es-co": "Cine, radio y televisión"
+        },
+        {
+            "es-co": "Industria del videojuego"
+        },
+        {
+            "es-co": "Mercado editorial"
+        },
+        {
+            "es-co": "Música"
+        },
+        {
+            "es-co": "Publicidad y marketing"
+        },
+        {
+            "es-co": "Uso de medios de comunicación"
+        },
+        {
+            "es-co": "Construcción naval"
+        },
+        {
+            "es-co": "Electrónica"
+        },
+        {
+            "es-co": "Industria aeroespacial"
+        },
+        {
+            "es-co": "Industria de defensa"
+        },
+        {
+            "es-co": "Ingeniería"
+        },
+        {
+            "es-co": "Metales"
+        },
+        {
+            "es-co": "Producción de material rodante"
+        },
+        {
+            "es-co": "Producción de vehículos"
+        },
+        {
+            "es-co": "Combustibles fósiles"
+        },
+        {
+            "es-co": "Industria química"
+        },
+        {
+            "es-co": "Minería, metales y minerales"
+        },
+        {
+            "es-co": "Papel y pasta de papel"
+        },
+        {
+            "es-co": "Plástico y caucho"
+        },
+        {
+            "es-co": "Productos minerales no metálicos"
+        },
+        {
+            "es-co": "Refinerías de petróleo"
+        },
+        {
+            "es-co": "Asistencia y cuidados"
+        },
+        {
+            "es-co": "Estado de salud"
+        },
+        {
+            "es-co": "Hospitales, farmacias y médicos"
+        },
+        {
+            "es-co": "Industria farmacéutica"
+        },
+        {
+            "es-co": "Sistema sanitario"
+        },
+        {
+            "es-co": "Tecnología médica"
+        },
+        {
+            "es-co": "Empleo cualificado"
+        },
+        {
+            "es-co": "Empleo no cualificado"
+        },
+        {
+            "es-co": "Servicios empresariales"
+        },
+        {
+            "es-co": "Delincuencia y aplicación de la ley"
+        },
+        {
+            "es-co": "Demografía"
+        },
+        {
+            "es-co": "Economía"
+        },
+        {
+            "es-co": "Educación y ciencia"
+        },
+        {
+            "es-co": "Geografía y medio ambiente"
+        },
+        {
+            "es-co": "Política y Gobierno"
+        },
+        {
+            "es-co": "Religión"
+        },
+        {
+            "es-co": "Electrodomésticos"
+        },
+        {
+            "es-co": "Electrónica de consumo"
+        },
+        {
+            "es-co": "Hardware"
+        },
+        {
+            "es-co": "Servicios de TI"
+        },
+        {
+            "es-co": "Software"
+        },
+        {
+            "es-co": "Telecomunicaciones"
+        },
+        {
+            "es-co": "Alojamiento"
+        },
+        {
+            "es-co": "Restaurantes y cafeterías"
+        },
+        {
+            "es-co": "Viajes de negocios"
+        },
+        {
+            "es-co": "Viajes de ocio"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "name": "Colombia",
+    "iso_code": "es-COL",
+    "nationality": "Colombiano (a)",
+    "states": [
+        {
+            "name": "Antioquia",
+            "universities": [
+                {
+                    "name": "Universidad de Antioquia"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Medellín"
+                },
+                {
+                    "name": "Itagüi"
+                },
+                {
+                    "name": "Bello"
+                },
+                {
+                    "name": "Envigado"
+                },
+                {
+                    "name": "Rionegro"
+                }
+            ]
+        },
+        {
+            "name": "Atlántico",
+            "universities": [
+                {
+                    "name": "Universidad del Atlántico"
+                },
+                {
+                    "name": "Universidad de la Costa CUC"
+                },
+                {
+                    "name": "Universidad Libre"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Barranquilla"
+                },
+                {
+                    "name": "Soledad"
+                },
+                {
+                    "name": "Malambo"
+                }
+            ]
+        },
+        {
+            "name": "Bogotá",
+            "universities": [
+                {
+                    "name": "Universidad de Bogotá Jorge Tadeo Lozano"
+                },
+                {
+                    "name": "Universidad de América"
+                },
+                {
+                    "name": "Universidad Antonio Nariño"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Usaquen"
+                },
+                {
+                    "name": "Chapinero"
+                },
+                {
+                    "name": "Santa Fe"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+watch:
+  directories:
+    - core
+    - tests
+  fileMask: '*.php'
+notifications:
+  passingTests: false
+  failingTests: false
+phpunit:
+  binaryPath: vendor/bin/phpunit
+  arguments: '--stop-on-failure --testdox --coverage-html reports/'
+  timeout: 180

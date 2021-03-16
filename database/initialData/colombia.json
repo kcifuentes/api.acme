@@ -1,0 +1,3986 @@
+{
+    "name": "Colombia",
+    "iso_code": "es-COL",
+    "nationality": "Colombiano (a)",
+    "states": [
+        {
+            "name": "Amazonas",
+            "universities": [
+                {
+                    "name": "Universidad de la amazonia"
+                },
+                {
+                    "name": "universidad Nacional de colombia"
+                },
+                {
+                    "name": "universidad Antonio nariño"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Leticia"
+                },
+                {
+                    "name": "Puerto Nariño"
+                },
+                {
+                    "name": "Manaos"
+                },
+                {
+                    "name": "tarapaca"
+                },
+                {
+                    "name": "la chorrera"
+                },
+                {
+                    "name": "el encanto"
+                },
+                {
+                    "name": "La pedrera"
+                },
+                {
+                    "name": "Miriti Paraná"
+                },
+                {
+                    "name": "Puerto Alegria"
+                },
+                {
+                    "name": "Puerto Arica"
+                },
+                {
+                    "name": "La victoria"
+                },
+                {
+                    "name": "Puerto Santander"
+                },
+                {
+                    "name": "Iquitos"
+                },
+                {
+                    "name": "Pacoa"
+                },
+                {
+                    "name": "Tabatinga"
+                },
+                {
+                    "name": "Benjamin Constant"
+                }
+            ]
+        },
+        {
+            "name": "Antioquia",
+            "universities": [
+                {
+                    "name": "Universidad de Antioquia"
+                },
+                {
+                    "name": "Tecnológico de Antioquia"
+                },
+                {
+                    "name": "Institución universitaria colegio mayor de antioquia"
+                },
+                {
+                    "name": "Universidad de Medellin"
+                },
+                {
+                    "name": "universidad Pontificia Bolivariana"
+                },
+                {
+                    "name": "Universidad EAFIT"
+                },
+                {
+                    "name": "Universidad EIA"
+                },
+                {
+                    "name": "Universidad CES"
+                },
+                {
+                    "name": "Politécnico Colombiano Jaime Isaza Cadavid"
+                },
+                {
+                    "name": "Universidad Católica Luis Amigó"
+                },
+                {
+                    "name": "Instituto Tecnológico Metropolitano de Medellin"
+                },
+                {
+                    "name": "Universidad Católica de Oriente"
+                },
+                {
+                    "name": "Fundación Universitaria Maria Cano"
+                },
+                {
+                    "name": "Corporación Universitaria Adventista"
+                },
+                {
+                    "name": "Universidad Nacional de Colombia"
+                },
+                {
+                    "name": "Escuela Superior Tecnológica de Artes Debora Arango"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Medellín"
+                },
+                {
+                    "name": "Santa Fé de Antioquia"
+                },
+                {
+                    "name": "Itagüi"
+                },
+                {
+                    "name": "Bello"
+                },
+                {
+                    "name": "Envigado"
+                },
+                {
+                    "name": "Rionegro"
+                },
+                {
+                    "name": "Santa Rosa de Osos"
+                },
+                {
+                    "name": "Copacabana"
+                },
+                {
+                    "name": "Barbosa"
+                },
+                {
+                    "name": "Amalfi"
+                },
+                {
+                    "name": "Caldas"
+                },
+                {
+                    "name": "Marinilla"
+                },
+                {
+                    "name": "Girardota"
+                },
+                {
+                    "name": "La Estrella"
+                },
+                {
+                    "name": "Jerico"
+                },
+                {
+                    "name": "Yarumal"
+                },
+                {
+                    "name": "Apartadó"
+                },
+                {
+                    "name": "Amaga"
+                },
+                {
+                    "name": "Caucasia"
+                },
+                {
+                    "name": "Turbo"
+                },
+                {
+                    "name": "Ituango"
+                },
+                {
+                    "name": "Necoclí"
+                },
+                {
+                    "name": "San Jerónimo"
+                },
+                {
+                    "name": "Chigorodo"
+                },
+                {
+                    "name": "Guarne"
+                },
+                {
+                    "name": "San pedro"
+                },
+                {
+                    "name": "Carepa"
+                },
+                {
+                    "name": "Sabaneta"
+                },
+                {
+                    "name": "El Bagre"
+                },
+                {
+                    "name": "Puerto Berrio"
+                },
+                {
+                    "name": "Sopetrán"
+                },
+                {
+                    "name": "Urrao"
+                },
+                {
+                    "name": "Cáceres"
+                },
+                {
+                    "name": "Remedios"
+                },
+                {
+                    "name": "Sonsón"
+                },
+                {
+                    "name": "Arboletes"
+                },
+                {
+                    "name": "Don Matías"
+                },
+                {
+                    "name": "La Ceja"
+                },
+                {
+                    "name": "Abriaqui"
+                },
+                {
+                    "name": "Jardín"
+                },
+                {
+                    "name": "Frontino"
+                },
+                {
+                    "name": "Ebéjico"
+                },
+                {
+                    "name": "Tarazá"
+                },
+                {
+                    "name": "San Vicente"
+                },
+                {
+                    "name": "Belmira"
+                },
+                {
+                    "name": "Ciudad Bolivar"
+                },
+                {
+                    "name": "Carmen del Viboral"
+                },
+                {
+                    "name": "Valdivia"
+                },
+                {
+                    "name": "Entrerríos"
+                },
+                {
+                    "name": "Carolina del Principe"
+                },
+                {
+                    "name": "Dabeiba"
+                }
+            ]
+        },
+        {
+            "name": "Arauca",
+            "universities": [
+                {
+                    "name": "Universidad Cooperativa de Colombia, Arauca"
+                },
+                {
+                    "name": " Universidad Santo Tomás"
+                },
+                {
+                    "name": "Universidad Remington"
+                },
+                {
+                    "name": "Cedecspro"
+                },
+                {
+                    "name": "Universidad Cooperativa sede de Derecho"
+                },
+                {
+                    "name": "UCC Sede san Carlos"
+                },
+                {
+                    "name": "Politécnico Grancolombiano"
+                },
+                {
+                    "name": "Granja el Picure, Facultad de Medicina veterinaria y zootecnia UCC"
+                },
+                {
+                    "name": "Facultad de Psicología UCC"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Arauquita"
+                },
+                {
+                    "name": "Clavo Norte"
+                },
+                {
+                    "name": "Fortul"
+                },
+                {
+                    "name": "Puerto Rondón"
+                },
+                {
+                    "name": "Saravena"
+                },
+                {
+                    "name": "Tame"
+                }
+            ]
+        },
+        {
+            "name": "Atlántico",
+            "universities": [
+                {
+                    "name": "Universidad del Atlántico"
+                },
+                {
+                    "name": "Universidad de la Costa CUC"
+                },
+                {
+                    "name": "Universidad Autónoma del Caribe"
+                },
+                {
+                    "name": "Universidad Metropolitana de Barranquilla"
+                },
+                {
+                    "name": "Universidad Simon Bolivar"
+                },
+                {
+                    "name": "Universidad del Norte"
+                },
+                {
+                    "name": "Corporación Universitaria Reformada"
+                },
+                {
+                    "name": "Institución Universitaria Itsa"
+                },
+                {
+                    "name": "Corporación Universitaria Minuto de Dios"
+                },
+                {
+                    "name": "Fundación Universitaria San Martin"
+                },
+                {
+                    "name": "Universidad Antonio Nariño"
+                },
+                {
+                    "name": " Corporación Universitaria Americana"
+                },
+                {
+                    "name": "Corporación Universitaria Corsalud"
+                },
+                {
+                    "name": "Corporación Universitaria empresarial de Salamanca"
+                },
+                {
+                    "name": "Universidad Libre"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Barranquilla"
+                },
+                {
+                    "name": "Soledad"
+                },
+                {
+                    "name": "Malambo"
+                },
+                {
+                    "name": "Baranoa"
+                },
+                {
+                    "name": "Galapa"
+                },
+                {
+                    "name": "Puerto Colombia"
+                },
+                {
+                    "name": "Polonuevo"
+                },
+                {
+                    "name": "Tubará"
+                },
+                {
+                    "name": "Luruaco"
+                },
+                {
+                    "name": "Usiacuí"
+                },
+                {
+                    "name": "Sabanagrande"
+                },
+                {
+                    "name": "Juan de Acosta"
+                },
+                {
+                    "name": "Piojó"
+                },
+                {
+                    "name": "Palmar de Varela"
+                },
+                {
+                    "name": "Ponedera"
+                },
+                {
+                    "name": "Santo Tomás"
+                },
+                {
+                    "name": "Campo de la Cruz"
+                },
+                {
+                    "name": "Candelaria"
+                },
+                {
+                    "name": "Sabanalarga"
+                },
+                {
+                    "name": "Repelón"
+                },
+                {
+                    "name": "Suan"
+                },
+                {
+                    "name": "Santa Lucía"
+                },
+                {
+                    "name": "Manatí"
+                },
+                {
+                    "name": "Sitionuevo"
+                },
+                {
+                    "name": "Campeche"
+                },
+                {
+                    "name": "Soplaviento"
+                }
+            ]
+        },
+        {
+            "name": "Bogotá",
+            "universities": [
+                {
+                    "name": "Universidad de Bogotá Jorge Tadeo Lozano"
+                },
+                {
+                    "name": "Universidad de América"
+                },
+                {
+                    "name": "Universidad Antonio Nariño"
+                },
+                {
+                    "name": "Universidad Colegio Mayor de Cundinamarca"
+                },
+                {
+                    "name": "Consultorio Jurídico Universidad de san buenaventura"
+                },
+                {
+                    "name": "Institución universitaria de Colombia, Sede Administrativa"
+                },
+                {
+                    "name": "Universidad Católica de Colombia"
+                },
+                {
+                    "name": "Universidad Sergio Arboleda"
+                },
+                {
+                    "name": "FUAC"
+                },
+                {
+                    "name": "Universidad Manuela Beltrán"
+                },
+                {
+                    "name": "Universitaria Agustiniana - UNIAGUSTINIANA"
+                },
+                {
+                    "name": "Universidad EAN sede calle 71"
+                },
+                {
+                    "name": "Fundación Universitaria Cafam"
+                },
+                {
+                    "name": "Fundación Universitaria San Alfonso"
+                },
+                {
+                    "name": "Universidad de Ciencias Aplicadas y ambientales"
+                },
+                {
+                    "name": "Universidad INCCA  de Colombia Sede Central"
+                },
+                {
+                    "name": "Universidad de la Salle"
+                },
+                {
+                    "name": "Escuela Colombiana de Ingeniería Julio Garavito"
+                },
+                {
+                    "name": "Universidad Central"
+                },
+                {
+                    "name": "Fundación Universitaria Compensar Sed"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Usaquen"
+                },
+                {
+                    "name": "Chapinero"
+                },
+                {
+                    "name": "Santa Fe"
+                },
+                {
+                    "name": "San Cristobal"
+                },
+                {
+                    "name": "Usme"
+                },
+                {
+                    "name": "Tunjuelito"
+                },
+                {
+                    "name": "Kennedy"
+                },
+                {
+                    "name": "Fontibón"
+                },
+                {
+                    "name": "Engativá"
+                },
+                {
+                    "name": "Suba"
+                },
+                {
+                    "name": "Barrios Unidos"
+                },
+                {
+                    "name": "Teusaquillo"
+                },
+                {
+                    "name": "Los Mártires"
+                },
+                {
+                    "name": "Antonio Nariño"
+                },
+                {
+                    "name": "Puente Aranda"
+                },
+                {
+                    "name": "La Candelaria"
+                },
+                {
+                    "name": "Rafael Uribe Uribe"
+                },
+                {
+                    "name": "Ciudad Bolivar"
+                },
+                {
+                    "name": "Sumapaz"
+                }
+            ]
+        },
+        {
+            "name": "Bolívar",
+            "universities": [
+                {
+                    "name": "Universidad Tecnológica de Bolívar"
+                },
+                {
+                    "name": "Institución Universitaria Bellas Artes y Ciencias de Bolívar UNIBAC"
+                },
+                {
+                    "name": "UTB"
+                },
+                {
+                    "name": "Colegio Mayor de Bolívar"
+                },
+                {
+                    "name": "Universidad Libre"
+                },
+                {
+                    "name": "Universidad de San Buenaventura"
+                },
+                {
+                    "name": "Universidad De Cartagena"
+                },
+                {
+                    "name": "Politécnico Gran Colombiano"
+                },
+                {
+                    "name": "Universidad Jorge Tadeo Lozano"
+                },
+                {
+                    "name": "Universidad de Cartagena Campus Camilo Torres"
+                },
+                {
+                    "name": "Centro Tutorial El Carmen de Bolívar"
+                },
+                {
+                    "name": "UTB Ternera"
+                },
+                {
+                    "name": "Universidad de Cartagena CREAD Magangue"
+                },
+                {
+                    "name": "Institución Universitaria Politécnico Grancolombiano"
+                },
+                {
+                    "name": "CUN Corporación Unificada Nacional de Educación Superior"
+                },
+                {
+                    "name": "Universidad de Cartagena Campus de la Salud"
+                },
+                {
+                    "name": "Corporación Universitaria Autónoma de Nariño Extensión Cartagena AUNAR"
+                },
+                {
+                    "name": "CSU Cartagena Fundación Universitaria del Area Andina"
+                },
+                {
+                    "name": "Facultad de enfermería Universidad de Cartagena"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Cartagena"
+                },
+                {
+                    "name": "San Juan Nepomuceno"
+                },
+                {
+                    "name": "Arjona"
+                },
+                {
+                    "name": "Mahates"
+                },
+                {
+                    "nam3": "Santa Catalina"
+                },
+                {
+                    "name": "Magangue"
+                },
+                {
+                    "name": "Achi"
+                },
+                {
+                    "name": "Barranco de Loba"
+                },
+                {
+                    "name": "Turbaco"
+                },
+                {
+                    "name": "San Jacinto"
+                },
+                {
+                    "name": "El Carmen de Bolivar"
+                },
+                {
+                    "name": "Maria la Baja"
+                },
+                {
+                    "name": "Arroyohondo"
+                },
+                {
+                    "name": "Mompós"
+                },
+                {
+                    "name": "Cicuco"
+                },
+                {
+                    "name": "Clemencia"
+                },
+                {
+                    "name": "Simití"
+                },
+                {
+                    "name": "Altos del Rosario"
+                },
+                {
+                    "name": "San Estanislao"
+                },
+                {
+                    "name": "Turbana"
+                },
+                {
+                    "name": "San Pablo"
+                },
+                {
+                    "name": "Villanueva"
+                },
+                {
+                    "name": "Santa Rosa del Sur"
+                },
+                {
+                    "name": "Pinillos"
+                },
+                {
+                    "name": "Morales"
+                },
+                {
+                    "name": "Córdoba"
+                },
+                {
+                    "name": "Santa Rosa"
+                },
+                {
+                    "name": "Tiquisio"
+                },
+                {
+                    "name": "Rio Viejo"
+                },
+                {
+                    "name": "San Fernando"
+                },
+                {
+                    "name": "San Martín de Loba"
+                },
+                {
+                    "name": "Soplaviento"
+                },
+                {
+                    "name": "Zambrano"
+                },
+                {
+                    "name": "Talaigua Nuevo"
+                },
+                {
+                    "name": "San Cristobal"
+                },
+                {
+                    "name": "Hatillo de Loba"
+                },
+                {
+                    "name": "Montecristo"
+                },
+                {
+                    "name": "Arenal"
+                },
+                {
+                    "name": "Regidor"
+                },
+                {
+                    "name": "Cantagallo"
+                },
+                {
+                    "name": "Margarita"
+                },
+                {
+                    "name": "Norosi"
+                },
+                {
+                    "name": "El Guamo"
+                },
+                {
+                    "name": "Calamar"
+                },
+                {
+                    "name": "El Peñon"
+                },
+                {
+                    "name": "San Jacinto del Cauca"
+                },
+                {
+                    "name": "Papayal"
+                },
+                {
+                    "name": "Ciudad Bolivar"
+                },
+                {
+                    "name": "San Basilio de Palenque"
+                },
+                {
+                    "name": "Cúcuta"
+                },
+                {
+                    "name": "Pereira"
+                }
+            ]
+        },
+        {
+            "name": "Boyacá",
+            "universities": [
+                {
+                    "name": "Universidad de Boyacá"
+                },
+                {
+                    "name": "UPTC Universidad Pedagógica y Tecnológica de Colombia"
+                },
+                {
+                    "name": "Hall de Artes de Universidad de Boyacá"
+                },
+                {
+                    "name": "Universidad Antonio Nariño"
+                },
+                {
+                    "name": "Fundación Universitaria de Boyacá"
+                },
+                {
+                    "name": "Fundación Universitaria Juan de Castellanos"
+                },
+                {
+                    "name": "Aula Magna Universidad de Boyacá"
+                },
+                {
+                    "name": "Corporación Universitaria Remington"
+                },
+                {
+                    "name": "Universidad de Boyacá Sede Sogamoso"
+                },
+                {
+                    "name": "Fundación Universitaria Juan de Castellanos Sede Crisanto Luque"
+                },
+                {
+                    "name": "Universidad Santo Tomás"
+                },
+                {
+                    "name": "Politécnico Grancolombiano"
+                },
+                {
+                    "name": "UNAD Universidad Nacional Abierta y a Distancia"
+                },
+                {
+                    "name": "Colegio Celco-Tunja"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Tunja"
+                },
+                {
+                    "name": "Duitama"
+                },
+                {
+                    "name": "Villa de Leiva"
+                },
+                {
+                    "name": "Paipa"
+                },
+                {
+                    "name": "Chiquinquirá"
+                },
+                {
+                    "name": "Tibasosa"
+                },
+                {
+                    "name": "Ráquira"
+                },
+                {
+                    "name": "Samacá"
+                },
+                {
+                    "name": "Ramiriquí"
+                },
+                {
+                    "name": "Ventaquemada"
+                },
+                {
+                    "name": "Santa Rosa de Viterbo"
+                },
+                {
+                    "name": "Nobsa"
+                },
+                {
+                    "name": "Puerto Boyacá"
+                },
+                {
+                    "name": "Aquitania"
+                },
+                {
+                    "name": "Boyacá"
+                },
+                {
+                    "name": "Guateque"
+                },
+                {
+                    "name": "Garagoa"
+                },
+                {
+                    "name": "Sáchica"
+                },
+                {
+                    "name": "Saboya"
+                },
+                {
+                    "name": "Moniquirá"
+                },
+                {
+                    "name": "Otanche"
+                },
+                {
+                    "name": "Soatá"
+                },
+                {
+                    "name": "Cómbita"
+                },
+                {
+                    "name": "El Cocuy"
+                },
+                {
+                    "name": "Pesca"
+                },
+                {
+                    "name": "Pesca"
+                },
+                {
+                    "name": "Miraflores"
+                },
+                {
+                    "name": "Iza"
+                },
+                {
+                    "name": "Belén"
+                },
+                {
+                    "name": "Siachoque"
+                },
+                {
+                    "name": "Socha"
+                },
+                {
+                    "name": "Tota"
+                },
+                {
+                    "name": "Muzo"
+                },
+                {
+                    "name": "Tibaná"
+                },
+                {
+                    "name": "Guican"
+                },
+                {
+                    "name": "Sotaquirá"
+                },
+                {
+                    "name": "Chita"
+                },
+                {
+                    "name": "Soracá"
+                },
+                {
+                    "name": "Pauna"
+                },
+                {
+                    "name": "oicatá"
+                },
+                {
+                    "name": "Tuta"
+                },
+                {
+                    "name": "Mongui"
+                },
+                {
+                    "name": "Sutamarchán"
+                },
+                {
+                    "name": "Socotá"
+                },
+                {
+                    "name": "Tenza"
+                },
+                {
+                    "name": "Arcabuco"
+                },
+                {
+                    "name": "Pisba"
+                },
+                {
+                    "name": "Chivor"
+                },
+                {
+                    "name": "Busbanza"
+                },
+                {
+                    "name": "Paya"
+                },
+                {
+                    "name": "San Pablo de Borbur"
+                }
+            ]
+        },
+        {
+            "name": "Caldas",
+            "universities": [
+                {
+                    "name": "Universidad de Caldas"
+                },
+                {
+                    "name": "Universidad Católica de Manizales"
+                },
+                {
+                    "name": "Universidad de Manizales"
+                },
+                {
+                    "name": "Universidad Autónoma de Manizales"
+                },
+                {
+                    "name": "Centro Regional de Estudios Superiores CERES"
+                },
+                {
+                    "name": "Universidad de Antonio Nariño Manizales"
+                },
+                {
+                    "name": "Universidad Nacional de Colombia"
+                },
+                {
+                    "name": "Corporación Universitaria Minuto de Dios"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Manizales"
+                },
+                {
+                    "name": "Villamaria"
+                },
+                {
+                    "name": "Salamina"
+                },
+                {
+                    "name": "Chinchiná"
+                },
+                {
+                    "name": "Anserma"
+                },
+                {
+                    "name": "Aranzazu"
+                },
+                {
+                    "name": "Aguadas"
+                },
+                {
+                    "name": "La Merced"
+                },
+                {
+                    "name": "Belalcazar"
+                },
+                {
+                    "name": "Marmato"
+                },
+                {
+                    "name": "Filadelfia"
+                },
+                {
+                    "name": "Belalcazar"
+                },
+                {
+                    "name": "Marmato"
+                },
+                {
+                    "name": "Filadelfia"
+                },
+                {
+                    "name": "La Dorada"
+                },
+                {
+                    "name": "Marquetalia"
+                },
+                {
+                    "name": "Manzanares"
+                },
+                {
+                    "name": "Neira"
+                },
+                {
+                    "name": "Riosucio"
+                },
+                {
+                    "name": "Supía"
+                },
+                {
+                    "name": "Marulanda"
+                },
+                {
+                    "name": "Viterbo"
+                },
+                {
+                    "name": "Pácora"
+                },
+                {
+                    "name": "Pensilvania"
+                },
+                {
+                    "name": "Samaná"
+                },
+                {
+                    "name": "Victoria"
+                },
+                {
+                    "name": "Palestina"
+                },
+                {
+                    "name": "Risaralda"
+                },
+                {
+                    "name": "Norcasia"
+                },
+                {
+                    "name": "San José"
+                },
+                {
+                    "name": "Chinchiná"
+                },
+                {
+                    "name": "Caldas"
+                },
+                {
+                    "name": "Sabaneta"
+                },
+                {
+                    "name": "Herveo"
+                },
+                {
+                    "name": "Caramanta"
+                }
+            ]
+        },
+        {
+            "name": "Caquetá",
+            "universities": [
+                {
+                    "name": "Universidad de Florencia"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Florencia"
+                },
+                {
+                    "name": "La Montañita"
+                },
+                {
+                    "name": "El Doncello"
+                },
+                {
+                    "name": "Pajuil"
+                },
+                {
+                    "name": "Belen de los Andaquíes"
+                },
+                {
+                    "name": "Cartagena del Chairá"
+                },
+                {
+                    "name": "Curillo"
+                },
+                {
+                    "name": "Milan"
+                },
+                {
+                    "name": "Puerto Rico"
+                },
+                {
+                    "name": "Albania"
+                },
+                {
+                    "name": "Morelia"
+                },
+                {
+                    "name": "San Vicente del Caguán"
+                },
+                {
+                    "name": "San Jose del Fragua"
+                },
+                {
+                    "name": "Solano"
+                },
+                {
+                    "name": "Solita"
+                },
+                {
+                    "name": "Valparaiso"
+                }
+            ]
+        },
+        {
+            "name": "Casanare",
+            "universities": [
+                {
+                    "name": "Fundación Universitaria internacional del trópico americano Unitrópico"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Yopal"
+                },
+                {
+                    "name": "Aguazul"
+                },
+                {
+                    "name": "Paz de Ariporo"
+                },
+                {
+                    "name": "Orocué"
+                },
+                {
+                    "name": "Nunchía"
+                },
+                {
+                    "name": "Monterrey"
+                },
+                {
+                    "name": "Hato Corozal"
+                },
+                {
+                    "name": "Pore"
+                },
+                {
+                    "name": "Sabanalarga"
+                },
+                {
+                    "name": "Maní"
+                },
+                {
+                    "name": "Tauramena"
+                },
+                {
+                    "name": "Villanueva"
+                },
+                {
+                    "name": "Tamará"
+                },
+                {
+                    "name": "Chámeza"
+                },
+                {
+                    "name": "Trinidad"
+                },
+                {
+                    "name": "Recetor"
+                },
+                {
+                    "name": "San luis de Palenque"
+                },
+                {
+                    "name": "La Salina"
+                },
+                {
+                    "name": "Sácama"
+                }
+            ]
+        },
+        {
+            "name": "Cauca",
+            "universities": [
+                {
+                    "name": "Universidad del Cauca"
+                },
+                {
+                    "name": "Fundación Universitaria de Popayán"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Caloto"
+                },
+                {
+                    "name": "Inza"
+                },
+                {
+                    "name": "Popayán"
+                },
+                {
+                    "name": "Corinto"
+                },
+                {
+                    "name": "Buenos Aires"
+                },
+                {
+                    "name": "Cajibío"
+                },
+                {
+                    "name": "Caldono"
+                },
+                {
+                    "name": "El Tambo"
+                },
+                {
+                    "name": "Almaguer"
+                },
+                {
+                    "name": "Guapi"
+                },
+                {
+                    "name": "Bolívar"
+                },
+                {
+                    "name": "Balboa"
+                },
+                {
+                    "name": "Santader de Quilichao"
+                },
+                {
+                    "name": "Puerto Tejada"
+                },
+                {
+                    "name": "Padilla"
+                },
+                {
+                    "name": "Florencia"
+                },
+                {
+                    "name": "Toribio"
+                },
+                {
+                    "name": " Piendamó"
+                },
+                {
+                    "name": "Timbío"
+                },
+                {
+                    "name": "Silvia"
+                },
+                {
+                    "name": "Belalcazar"
+                },
+                {
+                    "name": "Jambaló"
+                },
+                {
+                    "name": "Coconuco"
+                },
+                {
+                    "name": "Sotará"
+                },
+                {
+                    "name": "Morales"
+                },
+                {
+                    "name": "La Sierra"
+                },
+                {
+                    "name": "Mercaderes"
+                },
+                {
+                    "name": "Rosas"
+                },
+                {
+                    "name": "La Vega"
+                },
+                {
+                    "name": "Timbiquí"
+                },
+                {
+                    "name": "Patía"
+                },
+                {
+                    "name": "Micay"
+                },
+                {
+                    "name": "Santa Rosa"
+                },
+                {
+                    "name": "Villa Rica"
+                },
+                {
+                    "name": "Guachené"
+                },
+                {
+                    "name": "Totoró"
+                },
+                {
+                    "name": "Miranda"
+                },
+                {
+                    "name": "San Sebastian"
+                },
+                {
+                    "name": "Sucre"
+                },
+                {
+                    "name": "Argelia"
+                },
+                {
+                    "name": "Suarez"
+                },
+                {
+                    "name": "Piamonte"
+                },
+                {
+                    "name": "El Bordo"
+                },
+                {
+                    "name": "Argelia"
+                },
+                {
+                    "name": "Cali"
+                },
+                {
+                    "name": "Buga"
+                },
+                {
+                    "name": "Paispamba"
+                },
+                {
+                    "name": "Palmira"
+                },
+                {
+                    "name": "Cartago"
+                },
+                {
+                    "name": "Patía"
+                },
+                {
+                    "name": "Jamundí"
+                }
+            ]
+        },
+        {
+            "name": "Cesar",
+            "universities": [
+                {
+                    "name": "Universidad Popular del Cesar"
+                },
+                {
+                    "name": "Fundación Universitaria del Area Andina"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Aguachica"
+                },
+                {
+                    "name": "Valledupar"
+                },
+                {
+                    "name": "Agustín Codazzi"
+                },
+                {
+                    "name": "Chiriguana"
+                },
+                {
+                    "name": "Chimichagua"
+                },
+                {
+                    "name": "El Paso"
+                },
+                {
+                    "name": "Becerril"
+                },
+                {
+                    "name": "Curumaní"
+                },
+                {
+                    "name": "Bosconia"
+                },
+                {
+                    "name": "El Copey"
+                },
+                {
+                    "name": "Astrea"
+                },
+                {
+                    "name": "Gamarra"
+                },
+                {
+                    "name": "González"
+                },
+                {
+                    "name": "Manaure"
+                },
+                {
+                    "name": "La Jagua de Ibirico"
+                },
+                {
+                    "name": "Río de  Oro"
+                },
+                {
+                    "name": "Peblo Bello"
+                },
+                {
+                    "name": "Pailitas"
+                },
+                {
+                    "name": "Pelaya"
+                },
+                {
+                    "name": "San Alberto"
+                },
+                {
+                    "name": "San Diego"
+                },
+                {
+                    "name": "San Martín"
+                },
+                {
+                    "name": "Tamalameque"
+                },
+                {
+                    "name": "La Gloria"
+                },
+                {
+                    "name": "La Paz"
+                },
+                {
+                    "name": "Valencia de Jesus"
+                },
+                {
+                    "name": "Guatapurí"
+                },
+                {
+                    "name": "Atanquez"
+                },
+                {
+                    "name": "San Juan del Cesar"
+                },
+                {
+                    "name": "Los Háticos"
+                },
+                {
+                    "name": "El Burro"
+                },
+                {
+                    "name": "Patillal"
+                },
+                {
+                    "name": "El Molino"
+                },
+                {
+                    "name": "Regidor"
+                },
+                {
+                    "name": "El Banco"
+                }
+            ]
+        },
+        {
+            "name": "Chocó",
+            "universities": [
+                {
+                    "name": "Universidad Tecnológica del chocó (UTCH)"
+                },
+                {
+                    "name": "Fundación Universitaria Claretiana (FUCLA)"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Condoto"
+                },
+                {
+                    "name": "Bellavista"
+                },
+                {
+                    "name": "Bahía Solano"
+                },
+                {
+                    "name": "Acandí"
+                },
+                {
+                    "name": "Bagadó"
+                },
+                {
+                    "name": "Pie de Pato"
+                },
+                {
+                    "name": "Quibdó"
+                },
+                {
+                    "name": "Bajo Baudó"
+                },
+                {
+                    "name": "Certegui"
+                },
+                {
+                    "name": "Istmina"
+                },
+                {
+                    "name": "El Cantón de San Pablo"
+                },
+                {
+                    "name": "Tadó"
+                },
+                {
+                    "name": "Riousucio"
+                },
+                {
+                    "name": "Medio Atrato"
+                },
+                {
+                    "name": "Unguía"
+                },
+                {
+                    "name": "Medio Baudó"
+                },
+                {
+                    "name": "Nuquí"
+                },
+                {
+                    "name": "Novita"
+                },
+                {
+                    "name": "Lloro"
+                },
+                {
+                    "name": "El Carmen de Atrato"
+                },
+                {
+                    "name": "Rio Quito"
+                },
+                {
+                    "name": "Unión Panamericana"
+                },
+                {
+                    "name": "Jurado"
+                },
+                {
+                    "name": "Litoral del Bajo San Juan"
+                },
+                {
+                    "name": "Sipí"
+                },
+                {
+                    "name": "San Jose del Palmar"
+                },
+                {
+                    "name": "El Carmen de Darién"
+                },
+                {
+                    "name": "Medio San Juan"
+                },
+                {
+                    "name": "Rio Iró"
+                },
+                {
+                    "name": "Mutis"
+                },
+                {
+                    "name": "Atrato"
+                },
+                {
+                    "name": "Opogodo"
+                },
+                {
+                    "name": "Andagoya"
+                }
+            ]
+        },
+        {
+            "name": "Córdoba",
+            "universities": [
+                {
+                    "name": "Universidad Nacional de Córdoba UNC"
+                },
+                {
+                    "name": "Universidad Nacional de Rio Cuarto UNRC"
+                },
+                {
+                    "name": "Universidad Nacional de Villa María UNVM"
+                },
+                {
+                    "name": "Instituto Universitario Aeronáutico IUA"
+                },
+                {
+                    "name": "Universidad Tecnológica Nacional UTN"
+                },
+                {
+                    "name": "Instituto universitario del Gran Rosario IUGR"
+                },
+                {
+                    "name": "Universidad Blas Pascal UBP"
+                },
+                {
+                    "name": "Universidad Católica de Cordoba UCC"
+                },
+                {
+                    "name": "Universidad Empresarial Siglo XXI UES"
+                },
+                {
+                    "name": "Instituto Universitario de Ciencias Biomédicas de Córdoba"
+                },
+                {
+                    "name": "Universidad Provincial de Cordoba"
+                },
+                {
+                    "name": "Universidad de Ciencias Empresariales y sociales UCES,"
+                },
+                {
+                    "name": "Universidad de Belgrano UB"
+                },
+                {
+                    "name": "Universidad del Congreso"
+                },
+                {
+                    "name": "Universidad de Mendoza"
+                },
+                {
+                    "name": "Universidad del Centro Educ. Latinoamericano UCEL"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Montería"
+                },
+                {
+                    "name": "Cereté"
+                },
+                {
+                    "name": "Lorica"
+                },
+                {
+                    "name": "Ayapel"
+                },
+                {
+                    "name": "Los Córdobas"
+                },
+                {
+                    "name": "Canalete"
+                },
+                {
+                    "name": "Buenavista"
+                },
+                {
+                    "name": "Chinú"
+                },
+                {
+                    "name": "Chima"
+                },
+                {
+                    "name": "Momil"
+                },
+                {
+                    "name": "Planeta Rica"
+                },
+                {
+                    "name": "Montelíbano"
+                },
+                {
+                    "name": "Sahagún"
+                },
+                {
+                    "name": "La Apartada"
+                },
+                {
+                    "name": "San Antero"
+                },
+                {
+                    "name": "San Pelayo"
+                },
+                {
+                    "name": "Puerto Escondido"
+                },
+                {
+                    "name": "Cotorra"
+                },
+                {
+                    "name": "Purísima"
+                },
+                {
+                    "name": "Pueblo Nuevo"
+                },
+                {
+                    "name": "Tierralta"
+                },
+                {
+                    "name": "Monitos"
+                },
+                {
+                    "name": "San Carlos"
+                },
+                {
+                    "name": "Puerto Libertador"
+                },
+                {
+                    "name": "San Andres de Sotaviento"
+                },
+                {
+                    "name": "San Bernardi del Viento"
+                },
+                {
+                    "name": "Tuchín"
+                },
+                {
+                    "name": "Valencia"
+                },
+                {
+                    "name": "San José de Uré"
+                },
+                {
+                    "name": "Arboletes"
+                },
+                {
+                    "name": "Ciudad de Córdoba"
+                },
+                {
+                    "name": "Morindó"
+                },
+                {
+                    "name": "Ituango"
+                },
+                {
+                    "name": "Carepa"
+                },
+                {
+                    "name": "Córdoba"
+                },
+                {
+                    "name": "Saiza"
+                },
+                {
+                    "name": "Puerto Escondido"
+                }
+            ]
+        },
+        {
+            "name": "Cundinamarca",
+            "universities": [
+                {
+                    "name": "Universidad de Cundinamarca"
+                },
+                {
+                    "name": "Universidad de la Sabana"
+                },
+                {
+                    "name": "Escuela de Comunicaciones"
+                },
+                {
+                    "name": "Escuela de Suboficiales Sargento Inocencio Chincá"
+                },
+                {
+                    "name": "Escuela de Suboficiliales de la Fuerza Aerea CT. Andrés María Díaz D."
+                },
+                {
+                    "name": "Fundación de Madrid"
+                },
+                {
+                    "name": "INALDE Business School"
+                },
+                {
+                    "name": "Politécnico de Cundinamarca"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Soacha"
+                },
+                {
+                    "name": "Mosquera"
+                },
+                {
+                    "name": "Facativá"
+                },
+                {
+                    "name": "Funza"
+                },
+                {
+                    "name": "Zipaquirá"
+                },
+                {
+                    "name": "Cota"
+                },
+                {
+                    "name": "Cajicá"
+                },
+                {
+                    "name": "La Calera"
+                },
+                {
+                    "name": "Tocancipá"
+                },
+                {
+                    "name": "El Rosal"
+                },
+                {
+                    "name": "Fusagasugá"
+                },
+                {
+                    "name": "Tabio"
+                },
+                {
+                    "name": "Girardot"
+                },
+                {
+                    "name": "Tenjo"
+                },
+                {
+                    "name": "Sopo"
+                },
+                {
+                    "name": "Sibaté"
+                },
+                {
+                    "name": "La Mesa"
+                },
+                {
+                    "name": "Cogua"
+                },
+                {
+                    "name": "Pacho"
+                },
+                {
+                    "name": "Villeta"
+                },
+                {
+                    "name": "Ubaté"
+                },
+                {
+                    "name": "Subachoque"
+                },
+                {
+                    "name": "Guaduas"
+                },
+                {
+                    "name": "Chocontá"
+                },
+                {
+                    "name": "Anolaima"
+                },
+                {
+                    "name": "Villapinzón"
+                },
+                {
+                    "name": "Gachancipá"
+                },
+                {
+                    "name": "Bojacá"
+                },
+                {
+                    "name": "Silvania"
+                },
+                {
+                    "name": "Madrid"
+                },
+                {
+                    "name": "Puerto Salgar"
+                },
+                {
+                    "name": "Cáqueza"
+                },
+                {
+                    "name": "San Antonio del Tequendama"
+                },
+                {
+                    "name": "Nemocón"
+                },
+                {
+                    "name": "Suesca"
+                },
+                {
+                    "name": "Guatavita"
+                },
+                {
+                    "name": "Tena"
+                },
+                {
+                    "name": "Anapoima"
+                },
+                {
+                    "name": "La Vega"
+                },
+                {
+                    "name": "Ricaurte"
+                },
+                {
+                    "name": "Nilo"
+                },
+                {
+                    "name": "Medina"
+                },
+                {
+                    "name": "Arbeláez"
+                },
+                {
+                    "name": "Viota"
+                },
+                {
+                    "name": "Cachipay"
+                },
+                {
+                    "name": "Fúquene"
+                },
+                {
+                    "name": "Granada"
+                },
+                {
+                    "name": "San Bernardo"
+                },
+                {
+                    "name": "Pasca"
+                },
+                {
+                    "name": "Sutatausa"
+                },
+                {
+                    "name": "Bituima"
+                }
+            ]
+        },
+        {
+            "name": "Guainía",
+            "universities": [
+                {
+                    "name": "CERES Guainía"
+                },
+                {
+                    "name": "CUN Corporación Unificada Nacional de Educación Superior"
+                },
+                {
+                    "name": "Sena Guainía"
+                },
+                {
+                    "name": "Luis Carlos Galan Sarmiento"
+                },
+                {
+                    "name": "Instituto Integrado Custodio Garcia Rovira"
+                },
+                {
+                    "name": "Politécnico Grancolombiano"
+                },
+                {
+                    "name": "Universidad Abierta y a Distancia"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Inírida"
+                },
+                {
+                    "name": "Barranco Minas"
+                },
+                {
+                    "name": "Puerto Colombia"
+                },
+                {
+                    "name": "Cacahual"
+                },
+                {
+                    "name": "La Guadalupe"
+                },
+                {
+                    "name": "Morichal Nuevo"
+                },
+                {
+                    "name": "Pana Pana"
+                },
+                {
+                    "name": "Mapiripana"
+                },
+                {
+                    "name": "San Felipe"
+                },
+                {
+                    "name": "Guaviare"
+                }
+            ]
+        },
+        {
+            "name": "Guaviare",
+            "universities": [
+                {
+                    "Name": "Universidad Nacional Abierta Y a Distancia"
+                },
+                {
+                    "Name": "Escuela Superior de Administración Pública"
+                },
+                {
+                    "Name": "Politécnico Grancolombiano"
+                },
+                {
+                    "Name": "UNAD"
+                },
+                {
+                    "Name": "Sena"
+                },
+                {
+                    "Name": "Centro Educativo Andino"
+                },
+                {
+                    "Name": "CSU Guaviare Politécnico Grancolombiano"
+                },
+                {
+                    "Name": "Servicio Nacional de Aprendizaje CDATTG"
+                },
+                {
+                    "name": "Centro Educativo los Lagos"
+                },
+                {
+                    "name": "Colegio el Minuto de Dios San José del Guaviare"
+                },
+                {
+                    "name": "Colegio José Celestino Mutis"
+                },
+                {
+                    "name": "Institución Educativa Manuela Beltran"
+                },
+                {
+                    "name": "Institución Educativa Alfonso Lopez Pumarejo"
+                },
+                {
+                    "name": "CEDEL Solutions"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "San José del Guaviare"
+                },
+                {
+                    "name": "El Retorno"
+                },
+                {
+                    "name": "Miraflores"
+                },
+                {
+                    "name": "Calamar"
+                },
+                {
+                    "name": "Puerto Concordia"
+                }
+            ]
+        },
+        {
+            "name": "Huila",
+            "universities": [
+                {
+                    "name": "Corporación Universitaria del Huila CORHUILA"
+                },
+                {
+                    "name": "Universidad Surcolombiana"
+                },
+                {
+                    "name": "Universidad Antonio Nariño"
+                },
+                {
+                    "name": "Universidad Santo Tomás Neiva"
+                },
+                {
+                    "name": "Facultad Ingeniería USCO"
+                },
+                {
+                    "name": "Uniminuto"
+                },
+                {
+                    "name": "Fundación Universitaria Navarra"
+                },
+                {
+                    "name": "Centro de Atención Regional Universidad EAN"
+                },
+                {
+                    "name": "Politécnico Grancolombiano"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Neiva"
+                },
+                {
+                    "name": "Pitalito"
+                },
+                {
+                    "name": "Garzón"
+                },
+                {
+                    "name": "Colombia"
+                },
+                {
+                    "name": "San Agustín"
+                },
+                {
+                    "name": "Campo Alegre"
+                },
+                {
+                    "name": "Rivera"
+                },
+                {
+                    "name": "Gigante"
+                },
+                {
+                    "name": "Algeciras"
+                },
+                {
+                    "name": "La Plata"
+                },
+                {
+                    "name": "Aipe"
+                },
+                {
+                    "name": "Isnos"
+                },
+                {
+                    "name": "Tello"
+                },
+                {
+                    "name": "Villavieja"
+                },
+                {
+                    "name": "Palermo"
+                },
+                {
+                    "name": "Timana"
+                },
+                {
+                    "name": "Tarqui"
+                },
+                {
+                    "name": "Baraya"
+                },
+                {
+                    "name": "Yaguara"
+                },
+                {
+                    "name": "Acevedo"
+                },
+                {
+                    "name": "Iquira"
+                },
+                {
+                    "name": "Suaza"
+                },
+                {
+                    "name": "Altamira"
+                },
+                {
+                    "name": "Guadalupe"
+                },
+                {
+                    "name": "Tesalia"
+                },
+                {
+                    "name": "Nataga"
+                },
+                {
+                    "name": "Pital"
+                },
+                {
+                    "name": "Teruel"
+                },
+                {
+                    "name": "Saladoblanco"
+                },
+                {
+                    "name": "La Argentina"
+                },
+                {
+                    "name": "Elias"
+                },
+                {
+                    "name": "Oporapa"
+                },
+                {
+                    "name": "Santa María"
+                },
+                {
+                    "name": "Hobo"
+                },
+                {
+                    "name": "Paicol"
+                },
+                {
+                    "name": "Palestina"
+                },
+                {
+                    "name": "Agrado"
+                },
+                {
+                    "name": "Fortalecillas"
+                },
+                {
+                    "name": "Pital"
+                },
+                {
+                    "Name": "Guarcirco"
+                },
+                {
+                    "name": "San Luis"
+                },
+                {
+                    "name": "Yaguara"
+                },
+                {
+                    "name": "Vegalarga"
+                }
+            ]
+        },
+        {
+            "name": "La Guajira",
+            "universities": [
+                {
+                    "name": "Universidad de la Guajira"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Riohacha"
+                },
+                {
+                    "name": "Maicao"
+                },
+                {
+                    "name": "Manaure"
+                },
+                {
+                    "name": "Uribia"
+                },
+                {
+                    "name": "San Juan del César"
+                },
+                {
+                    "name": "Fonseca"
+                },
+                {
+                    "name": "Barrancas"
+                },
+                {
+                    "name": "Albania"
+                },
+                {
+                    "name": "Dibulla"
+                },
+                {
+                    "name": "Distracción"
+                },
+                {
+                    "name": "Distraccion"
+                },
+                {
+                    "name": "El Molino"
+                },
+                {
+                    "name": "Hatonuevo"
+                },
+                {
+                    "name": "Villanueva -La Guajira-"
+                },
+                {
+                    "name": "La Jagua del Pilar"
+                },
+                {
+                    "name": "Urumita"
+                },
+                {
+                    "name": "Palomino"
+                },
+                {
+                    "name": "Maicao"
+                },
+                {
+                    "name": "Cotoprix"
+                },
+                {
+                    "name": "Sinamaica"
+                }
+            ]
+        },
+        {
+            "name": "Magdalena",
+            "universities": [
+                {
+                    "name": "Universidad del Magdalena"
+                },
+                {
+                    "name": "Politécnico Grancolombiano"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Santa Marta"
+                },
+                {
+                    "name": "Aracataca"
+                },
+                {
+                    "name": "Ciénaga"
+                },
+                {
+                    "name": "El Retén"
+                },
+                {
+                    "name": "El Banco"
+                },
+                {
+                    "name": "Ariguani"
+                },
+                {
+                    "name": "Chivolo"
+                },
+                {
+                    "name": "Guamal"
+                },
+                {
+                    "name": "Puebloviejo"
+                },
+                {
+                    "name": "Pivijay"
+                },
+                {
+                    "name": "Salamina"
+                },
+                {
+                    "name": "El Piñón"
+                },
+                {
+                    "name": "Plato"
+                },
+                {
+                    "name": "Concordia"
+                },
+                {
+                    "name": "Sitionuevo"
+                },
+                {
+                    "name": "Pedraza"
+                },
+                {
+                    "name": "Tenerife"
+                },
+                {
+                    "name": "Remolino"
+                },
+                {
+                    "name": "San Sebastian de Buenavista"
+                },
+                {
+                    "name": "San Zenón"
+                },
+                {
+                    "name": "San Angel"
+                },
+                {
+                    "name": "Zona Bananera"
+                },
+                {
+                    "name": "Cerro San Antonio"
+                },
+                {
+                    "name": "Santa Ana"
+                },
+                {
+                    "name": "Zapayán"
+                },
+                {
+                    "name": "Pijino del Carmen"
+                },
+                {
+                    "name": "Santa Barbara del Pinto"
+                },
+                {
+                    "name": "Fundación"
+                },
+                {
+                    "name": "Nueva Granada"
+                },
+                {
+                    "name": "Algarrobo"
+                },
+                {
+                    "name": "Gaira"
+                },
+                {
+                    "name": "Taganga"
+                },
+                {
+                    "name": "Punta de Piedra"
+                },
+                {
+                    "name": "Dibulla"
+                },
+                {
+                    "name": "Ariguani"
+                },
+                {
+                    "name": "Palomino"
+                },
+                {
+                    "name": "El Peñon"
+                },
+                {
+                    "name": "Villavieja"
+                },
+                {
+                    "name": "Zambrano"
+                },
+                {
+                    "name": "Magangué"
+                },
+                {
+                    "name": "Barrancabermeja"
+                },
+                {
+                    "name": "La Dorada"
+                },
+                {
+                    "name": "Puerto Berrío"
+                },
+                {
+                    "name": "Honda"
+                },
+                {
+                    "name": "La Gloria"
+                }
+            ]
+        },
+        {
+            "name": "Meta",
+            "universities": [
+                {
+                    "name": "Corporación Universitaria del Meta UNIM"
+                },
+                {
+                    "name": "Universidad Antonio Nariño"
+                },
+                {
+                    "name": "Universidad de los Llanos"
+                },
+                {
+                    "name": "Universidad Santo Tomás Villavicencio"
+                },
+                {
+                    "name": "Postgrados Unimeta"
+                },
+                {
+                    "name": "Universidad Nacional"
+                },
+                {
+                    "name": "Corporación Universitaria Ideas de Colombia"
+                },
+                {
+                    "name": "Politécnico Gran Colombiano Sede Barzal"
+                },
+                {
+                    "name": "Corporación Universitaria Minuto de Dios"
+                },
+                {
+                    "name": "Entrada Unillanos"
+                },
+                {
+                    "name": "Inandina"
+                },
+                {
+                    "name": "CUN"
+                },
+                {
+                    "name": "Corporación Universitaria Autónoma"
+                },
+                {
+                    "name": "Universidad CERES la Macarrena"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Villavicencio"
+                },
+                {
+                    "name": "El Castillo"
+                },
+                {
+                    "name": "Acacías"
+                },
+                {
+                    "name": "Granada"
+                },
+                {
+                    "name": "Guamal"
+                },
+                {
+                    "name": "Cubarral"
+                },
+                {
+                    "name": "San Juan de Arama"
+                },
+                {
+                    "name": "Mesetas"
+                },
+                {
+                    "name": "El Calvario"
+                },
+                {
+                    "name": "El Dorado"
+                },
+                {
+                    "name": "La Macarena"
+                },
+                {
+                    "name": "Restrepo"
+                },
+                {
+                    "name": "Puerto Lopez"
+                },
+                {
+                    "name": "Cabuyaro"
+                },
+                {
+                    "name": "Barranca"
+                },
+                {
+                    "name": "San Martín"
+                },
+                {
+                    "name": "Puerto Gaitán"
+                },
+                {
+                    "name": "Cumaral"
+                },
+                {
+                    "name": "Lejanías"
+                },
+                {
+                    "name": "Castilla la Nueva"
+                },
+                {
+                    "name": "Fuente de Oro"
+                },
+                {
+                    "name": " Vistahermosa"
+                },
+                {
+                    "name": "La Uribe"
+                },
+                {
+                    "name": "Puerto LLeras"
+                },
+                {
+                    "name": "San Juanito"
+                },
+                {
+                    "name": "San Carlos Guaroa"
+                },
+                {
+                    "name": "Puerto Rico"
+                },
+                {
+                    "name": "Mapiripán"
+                },
+                {
+                    "name": "´Puerto Concordia"
+                },
+                {
+                    "name": "Puerto Carreño"
+                }
+            ]
+        },
+        {
+            "name": "Nariño",
+            "universities": [
+                {
+                    "name": "Politécnico Grancolombiano"
+                },
+                {
+                    "name": "Universidad Antonio nariño"
+                },
+                {
+                    "name": "Universidad Mariana"
+                },
+                {
+                    "name": "Universidad de Nariño"
+                },
+                {
+                    "name": "Universidad Cooperativa de Colombia"
+                },
+                {
+                    "name": "Corporación Universitaria Autónoma de Nariño"
+                },
+                {
+                    "name": "Universidad Cesmag"
+                },
+                {
+                    "name": "Facultad de Derecho y Ciencias Políticas"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Pasto"
+                },
+                {
+                    "name": "Ipiales"
+                },
+                {
+                    "name": "Tumaco"
+                },
+                {
+                    "name": "Buesaco"
+                },
+                {
+                    "name": "Túquerres"
+                },
+                {
+                    "name": "Córdoba"
+                },
+                {
+                    "name": "Sandoná"
+                },
+                {
+                    "name": "Samaniego"
+                },
+                {
+                    "name": "Chachaguí"
+                },
+                {
+                    "name": "Consaca"
+                },
+                {
+                    "name": "Alban"
+                },
+                {
+                    "name": "Cumbal"
+                },
+                {
+                    "name": "Barbacoas"
+                },
+                {
+                    "name": "El tambo"
+                },
+                {
+                    "name": "Pupiales"
+                },
+                {
+                    "name": "Guaitarilla"
+                },
+                {
+                    "name": "Taminango"
+                },
+                {
+                    "name": "Guachucal"
+                },
+                {
+                    "name": "Potosí"
+                },
+                {
+                    "name": "Santacruz"
+                },
+                {
+                    "name": "San Bernardo"
+                },
+                {
+                    "name": "Roberto Payan"
+                },
+                {
+                    "name": "La Cruz"
+                },
+                {
+                    "name": "la Unión"
+                },
+                {
+                    "name": "El Tablón de Gómez"
+                },
+                {
+                    "name": "El Charco"
+                },
+                {
+                    "name": "Magüí Payán"
+                },
+                {
+                    "name": "Ricaurte"
+                },
+                {
+                    "name": "Mosquera"
+                },
+                {
+                    "name": "Tangua"
+                },
+                {
+                    "name": "San Lorenzo"
+                },
+                {
+                    "name": "San Pablo"
+                },
+                {
+                    "name": "Linares"
+                },
+                {
+                    "name": "Gualmatán"
+                },
+                {
+                    "name": "La Llanada"
+                },
+                {
+                    "name": "La Florida"
+                },
+                {
+                    "name": "Providencia"
+                },
+                {
+                    "name": "Nariño"
+                },
+                {
+                    "name": "Francisco Pizarro"
+                },
+                {
+                    "name": "El Rosario"
+                },
+                {
+                    "name": "leiva"
+                },
+                {
+                    "name": "Ancuya"
+                },
+                {
+                    "name": "Los Andes"
+                },
+                {
+                    "name": "Aldana"
+                },
+                {
+                    "name": "Yacuanquer"
+                },
+                {
+                    "name": "Contadero"
+                },
+                {
+                    "name": "Arboleda"
+                },
+                {
+                    "name": "Ospina"
+                },
+                {
+                    "name": "Funes"
+                },
+                {
+                    "name": "Imues"
+                },
+                {
+                    "name": "Sapuyes"
+                }
+            ]
+        },
+        {
+            "name": "Norte de Santander",
+            "universities": [
+                {
+                    "name": "Universidad Francisco de Paula Santander Ocaña"
+                },
+                {
+                    "name": "Universidad de Santander"
+                },
+                {
+                    "name": "Politécnico Grancolombiano"
+                },
+                {
+                    "name": "Universidad Antonio Nariño"
+                },
+                {
+                    "name": "Universidad FESC Ocaña"
+                },
+                {
+                    "name": "Simón Bolívar"
+                },
+                {
+                    "name": "Universidad de Pamplona CREAD Cúcuta"
+                },
+                {
+                    "name": "Colegio Santo Angel- Julian Pinzón Peñaranda"
+                },
+                {
+                    "name": "Universidad FPS"
+                },
+                {
+                    "name": "Universidad Libre"
+                },
+                {
+                    "name": "UNAD"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Cúcuta"
+                },
+                {
+                    "name": "Chinácota"
+                },
+                {
+                    "name": "Ocaña"
+                },
+                {
+                    "name": "Pamplona"
+                },
+                {
+                    "name": "Durania"
+                },
+                {
+                    "name": "Abrego"
+                },
+                {
+                    "name": "Convención"
+                },
+                {
+                    "name": "Arboledas"
+                },
+                {
+                    "name": "Bochalema"
+                },
+                {
+                    "name": "Villa del Rosario"
+                },
+                {
+                    "name": "Cachira"
+                },
+                {
+                    "name": "Chitaga"
+                },
+                {
+                    "name": "Los Patios"
+                },
+                {
+                    "name": "El Zulia"
+                },
+                {
+                    "name": "Cucutilla"
+                },
+                {
+                    "name": "Bucarasica"
+                },
+                {
+                    "name": "Cácota"
+                },
+                {
+                    "name": "San Cayetano"
+                },
+                {
+                    "name": "Gramalote"
+                },
+                {
+                    "name": "Tibú"
+                },
+                {
+                    "name": "Salazar"
+                },
+                {
+                    "name": "Sardinata"
+                },
+                {
+                    "name": "ragonvalia"
+                },
+                {
+                    "name": "San Calixto"
+                },
+                {
+                    "name": "Teorama"
+                },
+                {
+                    "name": "La Playa"
+                },
+                {
+                    "name": "La Troja"
+                },
+                {
+                    "name": "Puerto Santander"
+                },
+                {
+                    "name": "Labateca"
+                },
+                {
+                    "name": "Hacari"
+                },
+                {
+                    "name": "Pamplonita"
+                },
+                {
+                    "name": "Mutiscua"
+                },
+                {
+                    "name": "Silos"
+                },
+                {
+                    "name": "La Esperanza"
+                },
+                {
+                    "name": "Herrán"
+                },
+                {
+                    "name": "Lourdes"
+                },
+                {
+                    "name": "Toledo"
+                },
+                {
+                    "name": "El Tarra"
+                },
+                {
+                    "name": "Villa Caro"
+                },
+                {
+                    "name": "Bucaramanga"
+                },
+                {
+                    "name": "Santiago"
+                },
+                {
+                    "name": "Abrego"
+                },
+                {
+                    "name": "Rio de Oro"
+                },
+                {
+                    "name": "San Faustino"
+                }
+            ]
+        },
+        {
+            "name": "Putumayo",
+            "universities": [
+                {
+                    "name": "Universidad Abierta y a Distancia UNAD"
+                },
+                {
+                    "name": "Instituto Tecnológico del Putumayo"
+                },
+                {
+                    "name": "Autónoma de Nariño"
+                },
+                {
+                    "name": "Politécnico Grancolombiano"
+                },
+                {
+                    "name": "EDUPOL CAU mocoa"
+                },
+                {
+                    "name": "CUN Corporación Unificada Nacional de Educación Superior"
+                },
+                {
+                    "name": "Instituto Misionero de Antropología Universidad Pontificia Bolivariana"
+                },
+                {
+                    "name": "Politécnico Internacional Colombiano POLINTEC MOCOA"
+                },
+                {
+                    "name": "Colegio Mixto Agro Jose María"
+                },
+                {
+                    "name": "ECSALUD Escuela Colombiana de Ciencias en Salud "
+                },
+                {
+                    "name": "Sena Mocoa"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Mocoa"
+                },
+                {
+                    "name": "Puerto Asis"
+                },
+                {
+                    "name": "Orito"
+                },
+                {
+                    "name": "Valle del Guamuez"
+                },
+                {
+                    "name": "Puerto Caicedo"
+                },
+                {
+                    "name": "Sibundoy"
+                },
+                {
+                    "name": "Puerto Guzman"
+                },
+                {
+                    "name": "Puerto Leguízamo"
+                },
+                {
+                    "name": "Santiago"
+                },
+                {
+                    "name": "Colón"
+                },
+                {
+                    "name": "San Miguel"
+                },
+                {
+                    "name": "Villagarzón"
+                },
+                {
+                    "name": "San Francisco"
+                }
+            ]
+        },
+        {
+            "name": "Quindio",
+            "universities": [
+                {
+                    "name": "Politécnico Grancolombiano"
+                },
+                {
+                    "name": "Universidad del Quindío"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Armenia"
+                },
+                {
+                    "name": "Calarcá"
+                },
+                {
+                    "name": "Salento"
+                },
+                {
+                    "name": "Circasia"
+                },
+                {
+                    "name": "Montenegro"
+                },
+                {
+                    "name": "La Tebaida"
+                },
+                {
+                    "name": "Filandia"
+                },
+                {
+                    "name": "Quimbaya"
+                },
+                {
+                    "name": "Pijao"
+                },
+                {
+                    "name": "Genova"
+                },
+                {
+                    "name": "Buenavista"
+                },
+                {
+                    "name": "Córdoba"
+                }
+            ]
+        },
+        {
+            "name": "Risaralda",
+            "universities": [
+                {
+                    "name": "Universidad Tecnológica de Pereira"
+                },
+                {
+                    "name": "Universidad Católica de Pereira"
+                },
+                {
+                    "name": "CIAF Carreras Universitarias"
+                },
+                {
+                    "name": "Fundación Comfamiliar Risaralda"
+                },
+                {
+                    "name": "Universidad Libre"
+                },
+                {
+                    "name": "Fundación Universitaria Autónoma de las américas"
+                },
+                {
+                    "name": "Universidad Antonio Nariño"
+                },
+                {
+                    "name": "Fundación Universitaria del Área Andina"
+                },
+                {
+                    "name": "Escuela Superior de Administración Pública Dosquebradas"
+                },
+                {
+                    "name": "ANDAP Académica Nacional de Aprendizaje"
+                },
+                {
+                    "name": "Universidad Cooperativa de Colombia"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Risaralda"
+                },
+                {
+                    "name": "Pereira"
+                },
+                {
+                    "name": "Marsella"
+                },
+                {
+                    "name": "Dosquebradas"
+                },
+                {
+                    "name": "La Virginia"
+                },
+                {
+                    "name": "Belén dE umbría"
+                },
+                {
+                    "name": "Balboa"
+                },
+                {
+                    "name": "Apia"
+                },
+                {
+                    "name": "Quinchia"
+                },
+                {
+                    "name": "Pueblo Rico"
+                },
+                {
+                    "name": "Mistrato"
+                },
+                {
+                    "name": "La Celia"
+                },
+                {
+                    "name": "Guática"
+                },
+                {
+                    "name": "Santa Rosa de Cabal"
+                },
+                {
+                    "name": "Santuario"
+                },
+                {
+                    "name": "Cartago"
+                },
+                {
+                    "name": "Anserma"
+                },
+                {
+                    "name": "Risaralda"
+                },
+                {
+                    "name": "Belalcazar"
+                },
+                {
+                    "name": "Viterbo"
+                },
+                {
+                    "name": "La Merced"
+                }
+            ]
+        },
+        {
+            "name": "San Andres y Providencia",
+            "universities": [
+                {
+                    "name": "Politécnico Grancolombiano"
+                },
+                {
+                    "name": "Universidad Nacional de Colombia"
+                }
+            ],
+            "cities": [
+                {
+                    "Name": "Ciudad de Providencia y Santa Catalina"
+                },
+                {
+                    "Name": "Ciudad de San Andrés"
+                }
+            ]
+        },
+        {
+            "name": "Santander",
+            "universities": [
+                {
+                    "name": "Universidad de Santander"
+                },
+                {
+                    "name": "Universidad de San Francisco de Paula Santander"
+                },
+                {
+                    "name": "Universidad Industrial de Santander"
+                },
+                {
+                    "name": "Universidad de Investigación y Desarrollo UDI"
+                },
+                {
+                    "name": "Universidad del Valle"
+                },
+                {
+                    "name": "Universidad Autónoma de Bucaramanga"
+                },
+                {
+                    "name": "UNISANGIL"
+                },
+                {
+                    "name": "UIS Universidad Industrial de Santander"
+                },
+                {
+                    "name": "Unidades Tecnológicas de Santander"
+                },
+                {
+                    "name": "Universidad Cooperativa  de Colombia"
+                },
+                {
+                    "name": "Universidad de Pamplona"
+                },
+                {
+                    "name": "Universidad Manuela Beltrán"
+                },
+                {
+                    "name": "Universidad Libre"
+                },
+                {
+                    "name": "UTS"
+                },
+                {
+                    "name": "Santo Tomás"
+                },
+                {
+                    "name": "Uniminuto"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Bucaramanga"
+                },
+                {
+                    "name": "Barrancabermeja"
+                },
+                {
+                    "name": "San Gil"
+                },
+                {
+                    "name": "Girón"
+                },
+                {
+                    "name": "Piedecuesta"
+                },
+                {
+                    "name": "Barichara"
+                },
+                {
+                    "name": "Floridablanca"
+                },
+                {
+                    "name": "Barbosa"
+                },
+                {
+                    "name": "Lebrija"
+                },
+                {
+                    "name": "Rionegro"
+                },
+                {
+                    "name": "San Andrés"
+                },
+                {
+                    "name": "Zapatoca"
+                },
+                {
+                    "name": "Los Santos"
+                },
+                {
+                    "name": "Aratoca"
+                },
+                {
+                    "name": "Málaga"
+                },
+                {
+                    "name:": "Charalá"
+                },
+                {
+                    "name": "Puente Nacional"
+                },
+                {
+                    "name": "eL Playón"
+                },
+                {
+                    "name": "Socorro"
+                },
+                {
+                    "name": "Guaca"
+                },
+                {
+                    "name": "San Vicente de chucurí"
+                },
+                {
+                    "name": "Mogotes"
+                },
+                {
+                    "name": "Villanueva"
+                },
+                {
+                    "name": "Capitanejo"
+                },
+                {
+                    "name": "Puerto Wilches"
+                },
+                {
+                    "name": "Cimitara"
+                },
+                {
+                    "name": "Cerrito"
+                },
+                {
+                    "name": "El Carmen de Chucurí"
+                },
+                {
+                    "name": " Curití"
+                },
+                {
+                    "name": "Tona"
+                },
+                {
+                    "name": "Oiba"
+                },
+                {
+                    "name": "Jordan"
+                },
+                {
+                    "name": "Betuli"
+                },
+                {
+                    "name": "Simacota"
+                },
+                {
+                    "name": "Cabrera"
+                },
+                {
+                    "name": "Sabana de Torres"
+                },
+                {
+                    "name": "Landázuri"
+                },
+                {
+                    "name": "Palmar"
+                },
+                {
+                    "name": "Bolívar"
+                },
+                {
+                    "name": "Sucre"
+                },
+                {
+                    "name": "Aguada"
+                },
+                {
+                    "name": "Carcasi"
+                },
+                {
+                    "name": "Florián"
+                },
+                {
+                    "name": "Albania"
+                },
+                {
+                    "name": "La Belleza"
+                },
+                {
+                    "name": "Puerto Parra"
+                },
+                {
+                    "name": "coromoro"
+                },
+                {
+                    "name": "Cepita"
+                }
+            ]
+        },
+        {
+            "name": "Sucre",
+            "universities": [
+                {
+                    "name": "Universidad de Sucre"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Sincelejo"
+                },
+                {
+                    "name": "Corozal"
+                },
+                {
+                    "name": "Santiago de Tolú"
+                },
+                {
+                    "name": "Los Palmitos"
+                },
+                {
+                    "name": "Coveñas"
+                },
+                {
+                    "name": "Colosó"
+                },
+                {
+                    "name": "Chalán"
+                },
+                {
+                    "name": "Sampués"
+                },
+                {
+                    "name": "Tolu Viejo"
+                },
+                {
+                    "name": "Sincé"
+                },
+                {
+                    "name": "Majagual"
+                },
+                {
+                    "name": "Morroa"
+                },
+                {
+                    "name": "Ovejas"
+                },
+                {
+                    "name": "Galeras"
+                },
+                {
+                    "name": "Caimito"
+                },
+                {
+                    "name": "El Roble"
+                },
+                {
+                    "name": "San Benito de Abad"
+                },
+                {
+                    "name": "San Pedro"
+                },
+                {
+                    "name": "San Marcos"
+                },
+                {
+                    "name": "Betulia"
+                },
+                {
+                    "name": "Guarandá"
+                },
+                {
+                    "name": "San Onofre"
+                },
+                {
+                    "name": "La Unión"
+                },
+                {
+                    "name": "Buenavista"
+                },
+                {
+                    "name": "Sucre"
+                },
+                {
+                    "name": "Palmito"
+                },
+                {
+                    "name": "Chinú"
+                },
+                {
+                    "name": "Achi"
+                },
+                {
+                    "name": "Purísima"
+                }
+            ]
+        },
+        {
+            "name": "Tolima",
+            "universities": [
+                {
+                    "name": "Universidad del Tolima"
+                },
+                {
+                    "name": "Universidad de Ibague"
+                },
+                {
+                    "name": "Facultad de Tecnologías Universidad del Tolima"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Ibague"
+                },
+                {
+                    "name": "El Espinal"
+                },
+                {
+                    "name": "Cajamarca"
+                },
+                {
+                    "name": "Líbano"
+                },
+                {
+                    "name": "Chaparral"
+                },
+                {
+                    "name": "Mariquita"
+                },
+                {
+                    "name": "Guamo"
+                },
+                {
+                    "name": "Honda"
+                },
+                {
+                    "name": "Coello"
+                },
+                {
+                    "name": "Melgar"
+                },
+                {
+                    "name": "Coyaima"
+                },
+                {
+                    "name": "Lérida"
+                },
+                {
+                    "name": "Ataco"
+                },
+                {
+                    "name": "Saldaña"
+                },
+                {
+                    "name": "Natagaima"
+                },
+                {
+                    "name": "Venadillo"
+                },
+                {
+                    "name": "Ambalema"
+                },
+                {
+                    "name": "Armero"
+                },
+                {
+                    "name": "Anzoategui"
+                },
+                {
+                    "name": "Alvarado"
+                },
+                {
+                    "name": "Flandes"
+                },
+                {
+                    "name": "Herveo"
+                },
+                {
+                    "name": "Fresno"
+                },
+                {
+                    "name": "Rovira"
+                },
+                {
+                    "name": "Planadas"
+                },
+                {
+                    "name": "Purificación"
+                },
+                {
+                    "name": "Ortega"
+                },
+                {
+                    "name": "Villahermosa"
+                },
+                {
+                    "name": "Falan"
+                },
+                {
+                    "name": "Rioblanco"
+                },
+                {
+                    "name": "San Antonio"
+                },
+                {
+                    "name": "Carmen de Apicalá"
+                },
+                {
+                    "name": "Santa Isabel"
+                },
+                {
+                    "name": "Prado"
+                },
+                {
+                    "name": "Cunday"
+                },
+                {
+                    "name": "Icononzo"
+                },
+                {
+                    "name": "Palocabildo"
+                },
+                {
+                    "name": "Ronces Valles"
+                },
+                {
+                    "name": "Suarez"
+                },
+                {
+                    "name": "Alpujarra"
+                },
+                {
+                    "name": "Murillo"
+                },
+                {
+                    "name": "San Luis"
+                },
+                {
+                    "name": "Casabianca"
+                },
+                {
+                    "name": "Villarrica"
+                },
+                {
+                    "name": "Dolores"
+                },
+                {
+                    "name": "Valle de San Juan"
+                },
+                {
+                    "name": "Piedras"
+                },
+                {
+                    "name": "Guayabal"
+                }
+            ]
+        },
+        {
+            "name": "Valle del Cauca",
+            "universities": [
+                {
+                    "name": "Universidad del Valle"
+                },
+                {
+                    "name": "Unidad Central del Valle del cauca UCEVA"
+                },
+                {
+                    "name": "Universidad Autónoma de Occidente"
+                },
+                {
+                    "name": "Escuela de Bacteriología y Laboratorio Clínico"
+                },
+                {
+                    "name": "Universidad de San Buenaventura Cali"
+                },
+                {
+                    "name": "Fundación Universitaria del Valle"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Cali"
+                },
+                {
+                    "name": "Buga"
+                },
+                {
+                    "name": "Cartago"
+                },
+                {
+                    "name": "Palmira"
+                },
+                {
+                    "name": "Buenaventura"
+                },
+                {
+                    "name": "Tuluá"
+                },
+                {
+                    "name": "Yumbo"
+                },
+                {
+                    "name": "Jamundí"
+                },
+                {
+                    "name": "Roldanillo"
+                },
+                {
+                    "name": "Ansermanuevo"
+                },
+                {
+                    "name": "Calima"
+                },
+                {
+                    "name": "Bugalagrande"
+                },
+                {
+                    "name": "El Cerrito"
+                },
+                {
+                    "name": "Candelaria"
+                },
+                {
+                    "name": "Caicedonia"
+                },
+                {
+                    "name": "Zarzal"
+                },
+                {
+                    "name": "Dagua"
+                },
+                {
+                    "name": "Pradera"
+                },
+                {
+                    "name": "Yotoco"
+                },
+                {
+                    "name": "Guacarí"
+                },
+                {
+                    "name": "La Victoria"
+                },
+                {
+                    "name": "Riofrío"
+                },
+                {
+                    "name": "Vijes"
+                },
+                {
+                    "name": "Restrepo"
+                },
+                {
+                    "name": "Trujillo"
+                },
+                {
+                    "name": "Florida"
+                },
+                {
+                    "name": "La Unión"
+                },
+                {
+                    "name": "El Cairo"
+                },
+                {
+                    "name": "Versalles"
+                },
+                {
+                    "name": "La Cumbre"
+                },
+                {
+                    "name": "Alcalá"
+                },
+                {
+                    "name": "Obando"
+                },
+                {
+                    "name": "El Dovio"
+                },
+                {
+                    "name": "Toro"
+                },
+                {
+                    "name": "El Aguila"
+                },
+                {
+                    "name": "Ulloa"
+                },
+                {
+                    "name": "Ginebra"
+                },
+                {
+                    "name": "San Pedro"
+                },
+                {
+                    "name": "Sevilla"
+                },
+                {
+                    "name": "Bolivar"
+                },
+                {
+                    "name": "Argelia"
+                },
+                {
+                    "name": "Andalucía"
+                },
+                {
+                    "name": "Dapa"
+                },
+                {
+                    "name": "San Cipriano"
+                },
+                {
+                    "name": "Miraflores"
+                },
+                {
+                    "name": "Miraflores"
+                },
+                {
+                    "name": "Corinto"
+                },
+                {
+                    "name": "La Castilla"
+                },
+                {
+                    "name": "eL Queremal"
+                }
+            ]
+        },
+        {
+            "name": "Vaupés",
+            "universities": [
+                {
+                    "name": "Edupol Centro asociado  de mitú"
+                },
+                {
+                    "name": "Institución Educativa Integrada Jose Rivera"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Mitú"
+                },
+                {
+                    "name": "Carurú"
+                },
+                {
+                    "name": "Taraira"
+                },
+                {
+                    "name": "Yavarate"
+                },
+                {
+                    "name": "Papunahua"
+                },
+                {
+                    "name": "Pacoa"
+                },
+                {
+                    "name": "Acaricuara"
+                },
+                {
+                    "name": "Villa Fátima"
+                },
+                {
+                    "name": "Morichal Nuevo"
+                },
+                {
+                    "name": "Miraflores"
+                }
+            ]
+        },
+        {
+            "name": "Vichada",
+            "universities": [
+                {
+                    "name": "UNAD Puerto Carreño"
+                },
+                {
+                    "name": "Politécnico Grancolombiano"
+                },
+                {
+                    "name": "Corporiente - Uniremington"
+                },
+                {
+                    "name": "ESAP"
+                },
+                {
+                    "name": "CERES Guainia"
+                },
+                {
+                    "name": "Universidad Santa María"
+                },
+                {
+                    "name": "CUN Corporación Unificada Nacional de Educación Superior"
+                },
+                {
+                    "name": "Universidad Nacional abierta"
+                },
+                {
+                    "name": "Escuela Mauriel"
+                }
+            ],
+            "cities": [
+                {
+                    "name": "Puerto Carreño"
+                },
+                {
+                    "name": "Cumaribo"
+                },
+                {
+                    "name": "Santa Rosalía"
+                },
+                {
+                    "name": "la Primavera"
+                },
+                {
+                    "name": "Maipures"
+                },
+                {
+                    "name": "Las Gaviotas"
+                },
+                {
+                    "name": "San Jose de Ocune"
+                }
+            ]
+        }
+    ]
+}
+
