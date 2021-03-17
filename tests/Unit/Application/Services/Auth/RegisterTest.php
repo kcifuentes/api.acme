@@ -2,7 +2,7 @@
 
 namespace Tests\Unit\Application\Services\Auth;
 
-use Acme\Domain\Auth\AuthEntity;
+use Acme\Domain\User\UserEntity;
 use Exception;
 use Tests\TestCase;
 
@@ -13,8 +13,12 @@ class RegisterTest extends TestCase
      */
     public function shouldRegisterTheCandidate(): void
     {
-        $authUser = $this->registerUser();
+        $authUser = $this->registerUser(
+            name: 'User',
+            email: "user@user.com",
+            password: "123456789"
+        );
 
-        $this->assertInstanceOf(AuthEntity::class, $authUser);
+        $this->assertInstanceOf(UserEntity::class, $authUser);
     }
 }

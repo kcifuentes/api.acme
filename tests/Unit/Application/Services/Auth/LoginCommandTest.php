@@ -22,7 +22,11 @@ class LoginCommandTest extends TestCase
     {
         $this->expectException(UnauthorizedException::class);
 
-        $this->registerUser();
+        $this->registerUser(
+            name: 'User',
+            email: "user@user.com",
+            password: "123456789"
+        );
 
         $command = new LoginCommand('user@user.com', '12345678dfdfsdfwef');
         $this->commandBus->execute($command);

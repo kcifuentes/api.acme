@@ -5,6 +5,7 @@ namespace Tests;
 use Acme\Application\Services\Auth\RegisterUserCommand;
 use Acme\Domain\Auth\AuthEntity;
 use Acme\Domain\BaseEntity;
+use Acme\Domain\User\UserEntity;
 use Acme\Infrastructure\Bus\Contracts\CommandBus;
 use Illuminate\Contracts\Container\BindingResolutionException;
 use Illuminate\Foundation\Testing\DatabaseMigrations;
@@ -36,38 +37,18 @@ abstract class TestCase extends BaseTestCase
         return $this->basePath;
     }
 
-    public function registerUser(): array|BaseEntity|AuthEntity
-    {
-        $command = new RegisterUserCommand(
-            'user',
-            'user@user.com',
-            '123456',
-        );
-
-        /** @var AuthEntity $response */
-        return $this->commandBus->execute($command);
-    }
-
-    public function registerUserHttp(
+    public function registerUser(
         string $name = null,
         string $email = null,
         string $password = null,
-    ): TestResponse
+    ): UserEntity
     {
-        $data = [];
+        $command = new RegisterUserCommand(
+            name: $name,
+            email: $email,
+            password: $password
+        );
 
-        if ($name) {
-            $data['name'] = $name;
-        }
-
-        if ($email) {
-            $data['email'] = $email;
-        }
-
-        if ($password) {
-            $data['password'] = $password;
-        }
-
-        return $this->postJson(route('auth.register'), $data);
+        return $this->commandBus->execute($command);
     }
 }
