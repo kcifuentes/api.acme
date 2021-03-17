@@ -1,5 +1,6 @@
 <?php
 
+use Database\Seeders\DocumentTypesSeeder;
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
@@ -13,6 +14,10 @@ class CreateDocumentTypesTable extends Migration
             $table->string('name');
             $table->timestamps();
         });
+
+        Artisan::call('db:seed', [
+            '--class' => DocumentTypesSeeder::class,
+        ]);
     }
 
     public function down()
