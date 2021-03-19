@@ -24,25 +24,6 @@ class CountryEntityTest extends TestCase
         $country->setId(new EntityId(1));
         $country->setName('Colombia');
 
-        $state = new StateEntity();
-        $state->setName('Atlántico');
-        $country->setStates([$state]);
-
-        $city = new CityEntity();
-        $city->setName('Barranquilla');
-        $state->setCities([$city]);
-
-        /** @var StateEntity $state */
-        foreach ($country->getStates() as $state) {
-            $this->assertInstanceOf(StateEntity::class, $state);
-            $this->assertEquals('Atlántico', $state->getName());
-
-            /** @var CityEntity $cityItem */
-            foreach ($state->getCities() as $cityItem) {
-                $this->assertEquals($city->getName(), $cityItem->getName());
-            }
-        }
-
         $this->assertEquals(1, $country->getId());
         $this->assertEquals('Colombia', $country->getName());
         $this->assertIsArray($country->toArray());
@@ -57,6 +38,18 @@ class CountryEntityTest extends TestCase
         $state = new StateEntity();
         $state->setName('Atlántico');
         $state->setCountry($country);
+
+        $city = new CityEntity();
+        $city->setName('Barranquilla');
+        $state->setCities([$city]);
+
+        /** @var CityEntity $cityItem */
+        foreach ($state->getCities() as $cityItem) {
+            $this->assertEquals('Barranquilla', $cityItem->getName());
+        }
+
+        $this->assertInstanceOf(StateEntity::class, $state);
+        $this->assertEquals('Atlántico', $state->getName());
 
         $this->assertInstanceOf(CountryEntity::class, $state->getCountry());
     }

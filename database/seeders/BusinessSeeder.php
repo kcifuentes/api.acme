@@ -2,7 +2,7 @@
 
 namespace Database\Seeders;
 
-use Acme\Domain\BusinessTypes;
+use Acme\Domain\Profile\BusinessTypes;
 use Acme\Infrastructure\Eloquent\Models\Business;
 use Acme\Infrastructure\Eloquent\Models\Language;
 use Illuminate\Contracts\Filesystem\FileNotFoundException;

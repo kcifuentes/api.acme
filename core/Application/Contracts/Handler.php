@@ -1,6 +1,5 @@
 <?php
 
-
 namespace Acme\Application\Contracts;
 
 use Acme\Domain\BaseEntity;

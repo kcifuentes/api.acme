@@ -2,7 +2,6 @@
 
 namespace Acme\Infrastructure\Eloquent\Models;
 
-use Acme\Infrastructure\Eloquent\Models\Relations\UserRelations;
 use Eloquent;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\SoftDeletes;
@@ -11,6 +10,9 @@ use Illuminate\Notifications\Notifiable;
 use Laravel\Passport\HasApiTokens;
 
 /**
+ * Class User
+ * @package Acme\Infrastructure\Eloquent\Models
+ *
  * @property string $name
  * @property string $email
  * @property string $password
@@ -18,7 +20,7 @@ use Laravel\Passport\HasApiTokens;
  */
 class User extends Authenticatable
 {
-    use HasFactory, Notifiable, UserRelations, SoftDeletes, HasApiTokens;
+    use HasFactory, Notifiable, SoftDeletes, HasApiTokens;
 
     protected $fillable = [
         'name',

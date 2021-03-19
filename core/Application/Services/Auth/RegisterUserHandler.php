@@ -22,7 +22,6 @@ class RegisterUserHandler implements Handler
         $candidateEntity->setEmail($command->getEmail());
 
         $user = $this->repository->registerUser($candidateEntity, $command->getPassword());
-
         return UserFactory::create($user);
     }
 }

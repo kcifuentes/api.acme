@@ -13,13 +13,11 @@ class RoutesController extends Controller
         $routeCollection = Route::getRoutes();
         $routes = [];
         foreach ($routeCollection as $item) {
-            if (!Str::contains($item->getName(), ['log-viewer', 'ignition', 'initial'])) {
-                if (isset($item->getAction()['domain']) && ($item->getAction()['domain'] === env('APP_URL'))) {
-                    array_push($routes, [
-                        'name' => $item->getName(),
-                        'uri'  => $item->uri,
-                    ]);
-                }
+            if ($item->getName() !== null && !Str::contains($item->getName(), ['log-viewer', 'ignition', 'initial'])) {
+                array_push($routes, [
+                    'name' => $item->getName(),
+                    'uri'  => $item->uri,
+                ]);
             }
         }
 

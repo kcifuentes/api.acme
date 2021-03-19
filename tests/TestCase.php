@@ -3,15 +3,12 @@
 namespace Tests;
 
 use Acme\Application\Services\Auth\RegisterUserCommand;
-use Acme\Domain\Auth\AuthEntity;
-use Acme\Domain\BaseEntity;
 use Acme\Domain\User\UserEntity;
 use Acme\Infrastructure\Bus\Contracts\CommandBus;
 use Illuminate\Contracts\Container\BindingResolutionException;
 use Illuminate\Foundation\Testing\DatabaseMigrations;
 use Illuminate\Foundation\Testing\TestCase as BaseTestCase;
 use Illuminate\Support\Facades\Artisan;
-use Illuminate\Testing\TestResponse;
 
 abstract class TestCase extends BaseTestCase
 {

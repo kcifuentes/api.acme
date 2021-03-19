@@ -19,4 +19,9 @@ class CityRepository implements ICityRepository
             ->get()
             ->toArray();
     }
+
+    public function getAllCities(): array
+    {
+        return $this->cityModel->with('state.country')->get()->toArray();
+    }
 }

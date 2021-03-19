@@ -8,6 +8,9 @@ use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
 /**
+ * Class State
+ * @package Acme\Infrastructure\Eloquent\Models
+ *
  * @property string $name
  * @mixin Eloquent
  */

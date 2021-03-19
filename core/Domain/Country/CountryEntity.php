@@ -13,7 +13,6 @@ class CountryEntity extends BaseEntity
 
     private EntityId $id;
     private string $name;
-    private array $states;
 
     #[Pure]
     public function getId(): int
@@ -34,15 +33,5 @@ class CountryEntity extends BaseEntity
     public function setName(string $name): void
     {
         $this->name = $name;
-    }
-
-    public function getStates(): array
-    {
-        return $this->states;
-    }
-
-    public function setStates(array $states): void
-    {
-        $this->states = $states;
     }
 }

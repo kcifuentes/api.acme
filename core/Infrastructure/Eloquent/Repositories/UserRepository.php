@@ -2,7 +2,6 @@
 
 namespace Acme\Infrastructure\Eloquent\Repositories;
 
-use Acme\Domain\Contracts\Repository\ICandidateRepository;
 use Acme\Domain\Contracts\Repository\IUserRepository;
 use Acme\Domain\User\UserEntity;
 use Acme\Infrastructure\Eloquent\Models\User;

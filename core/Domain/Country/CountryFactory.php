@@ -13,10 +13,6 @@ class CountryFactory extends BaseFactory
         $country->setId(new EntityId($attributes['id']));
         $country->setName($attributes['name']);
 
-        if (isset($attributes['states'])) {
-            $country->setStates($attributes['states']);
-        }
-
         return $country;
     }
 }
